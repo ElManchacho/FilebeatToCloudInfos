@@ -1,3 +1,5 @@
+Public doc : https://github.com/ElManchacho/FilebeatToCloudInfos
+
 # FilebeatToCloud
 
 An easy way to add a Filebeat configuration to your system
@@ -42,7 +44,7 @@ This app currently runs with the 8.3.1 version of Filebeat --> https://www.elast
   For now, you need to create it youself and write the following properties :
   
   ````
-  HOSTS=<kiban url>
+  HOSTS=<kibana url>
   USRNAME=<username(usually 'elastic')>
   PASSWORD=<password>
   ````
